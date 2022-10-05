@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "ITCS4230Project1",
   "resources": [
+    {"id":{"name":"scr_blob","path":"scripts/scr_blob/scr_blob.yy",},"order":0,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":1,},
     {"id":{"name":"spr_blob","path":"sprites/spr_blob/spr_blob.yy",},"order":0,},
