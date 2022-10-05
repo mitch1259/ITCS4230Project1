@@ -1,10 +1,6 @@
 /// @description Do player action
 
 if location_state == LocationState.Ground {
-	// Horizontal movement
-	var v_move = int64(keyboard_check(ord("D"))) - int64(keyboard_check(ord("A")))
-	hspeed = clamp(hspeed + v_move * walk_speed, -max_hspeed, max_hspeed)
-
 	horizontal_collision()
 
 	if keyboard_check(ord("W")) {
@@ -19,5 +15,8 @@ if location_state == LocationState.Ground {
 	}
 
 	vertical_collision()
-	horizontal_collision()
+
+	if !horizontal_collision() {
+		hspeed = hsp
+	}
 }
