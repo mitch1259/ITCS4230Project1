@@ -1,5 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Start game
 
 //Obviously needs  a title screen and stuff but for now is good
-room_goto_next()
+if room == Intro {
+	room_goto_next()
+}
