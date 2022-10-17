@@ -7,6 +7,7 @@
     {"id":{"name":"spr_kidz","path":"sprites/spr_kidz/spr_kidz.yy",},"order":5,},
     {"id":{"name":"scr_blob","path":"scripts/scr_blob/scr_blob.yy",},"order":0,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
+    {"id":{"name":"spr_bjump","path":"sprites/spr_bjump/spr_bjump.yy",},"order":6,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":3,},
     {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},"order":1,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":3,},
