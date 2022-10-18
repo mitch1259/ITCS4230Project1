@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_kidz",
   "spriteId": {
-    "name": "spr_blob",
-    "path": "sprites/spr_blob/spr_blob.yy",
+    "name": "spr_kidz",
+    "path": "sprites/spr_kidz/spr_kidz.yy",
   },
   "solid": false,
   "visible": true,

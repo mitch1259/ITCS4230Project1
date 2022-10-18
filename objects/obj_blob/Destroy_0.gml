@@ -2,3 +2,4 @@
 
 //room goto end screen something
 game_restart()
+score = 0
