@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 
-if (keyboard_check(vk_alt)) then score += 10
+if (keyboard_check(vk_alt)) then score += 1
