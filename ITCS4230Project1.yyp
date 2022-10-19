@@ -35,7 +35,6 @@
     {"id":{"name":"spr_underground","path":"sprites/spr_underground/spr_underground.yy",},"order":15,},
     {"id":{"name":"obj_kidz","path":"objects/obj_kidz/obj_kidz.yy",},"order":6,},
     {"id":{"name":"spr_bounceBJump","path":"sprites/spr_bounceBJump/spr_bounceBJump.yy",},"order":11,},
-    {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},"order":5,},
     {"id":{"name":"Room1_alt","path":"rooms/Room1_alt/Room1_alt.yy",},"order":2,},
     {"id":{"name":"spr_bounceBWalk","path":"sprites/spr_bounceBWalk/spr_bounceBWalk.yy",},"order":8,},
     {"id":{"name":"spr_danger","path":"sprites/spr_danger/spr_danger.yy",},"order":13,},
