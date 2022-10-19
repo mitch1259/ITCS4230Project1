@@ -4,7 +4,7 @@
   "name": "ITCS4230Project1",
   "resources": [
     {"id":{"name":"obj_buff","path":"objects/obj_buff/obj_buff.yy",},"order":9,},
-    {"id":{"name":"Room1_alt2","path":"rooms/Room1_alt2/Room1_alt2.yy",},"order":3,},
+    {"id":{"name":"rm_level1_alt2","path":"rooms/rm_level1_alt2/rm_level1_alt2.yy",},"order":3,},
     {"id":{"name":"spr_sky","path":"sprites/spr_sky/spr_sky.yy",},"order":23,},
     {"id":{"name":"spr_start_button","path":"sprites/spr_start_button/spr_start_button.yy",},"order":27,},
     {"id":{"name":"obj_ship2","path":"objects/obj_ship2/obj_ship2.yy",},"order":13,},
@@ -40,7 +40,7 @@
     {"id":{"name":"spr_signs","path":"sprites/spr_signs/spr_signs.yy",},"order":25,},
     {"id":{"name":"spr_credits_button","path":"sprites/spr_credits_button/spr_credits_button.yy",},"order":28,},
     {"id":{"name":"spr_bounceBJump","path":"sprites/spr_bounceBJump/spr_bounceBJump.yy",},"order":11,},
-    {"id":{"name":"Room1_alt","path":"rooms/Room1_alt/Room1_alt.yy",},"order":2,},
+    {"id":{"name":"rm_level1_alt1","path":"rooms/rm_level1_alt1/rm_level1_alt1.yy",},"order":2,},
     {"id":{"name":"spr_bounceBWalk","path":"sprites/spr_bounceBWalk/spr_bounceBWalk.yy",},"order":8,},
     {"id":{"name":"spr_blob_walk","path":"sprites/spr_blob_walk/spr_blob_walk.yy",},"order":0,},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":7,},
@@ -64,8 +64,8 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
-    {"roomId":{"name":"Room1_alt","path":"rooms/Room1_alt/Room1_alt.yy",},},
-    {"roomId":{"name":"Room1_alt2","path":"rooms/Room1_alt2/Room1_alt2.yy",},},
+    {"roomId":{"name":"rm_level1_alt1","path":"rooms/rm_level1_alt1/rm_level1_alt1.yy",},},
+    {"roomId":{"name":"rm_level1_alt2","path":"rooms/rm_level1_alt2/rm_level1_alt2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
