@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_start_button",
+  "name": "obj_back_button",
   "spriteId": {
-    "name": "spr_start_button",
-    "path": "sprites/spr_start_button/spr_start_button.yy",
+    "name": "spr_back_button",
+    "path": "sprites/spr_back_button/spr_back_button.yy",
   },
   "solid": false,
   "visible": true,
