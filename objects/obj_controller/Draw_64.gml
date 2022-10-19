@@ -1,9 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
-fnt_one = font_add("Exo2-VariableFont_wght.ttf", 20, true, false, 32, 128)
 draw_set_font(fnt_one)
 draw_set_halign(fa_left)
 
