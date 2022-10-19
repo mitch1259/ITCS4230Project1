@@ -3,7 +3,7 @@
 if location_state == LocationState.Ground {
 	horizontal_collision()
 
-	if keyboard_check(ord("W")) {
+	if keyboard_check(vk_space) {
 		// If jumping
 		vspeed = -jump_height
 		set_location_state(LocationState.Air)
