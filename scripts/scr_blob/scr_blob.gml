@@ -4,6 +4,12 @@ enum LocationState {
 	SpaceBeam,
 }
 
+enum PowerUpState {
+	None,
+	Bounce,
+	Buff,
+}
+
 /// @function  set_location_state(state)
 /// @description  Transition between location states
 /// @param  {real}  state  LocationState
