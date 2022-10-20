@@ -23,4 +23,15 @@ if location_state == LocationState.Ground {
 		// If no block in front of player
 		hspeed = hsp
 	}
+} else if location_state = LocationState.SpaceBeam {
+	// Increase image scale from 0.2 to 1.0 over 64 frames
+	image_yscale += 0.80 / 64
+	image_xscale += 0.80 / 64
+
+	if vertical_collision() {
+		image_yscale = 1
+		image_xscale = 1
+		vertical_collision()
+		set_location_state(LocationState.Ground)
+	}
 }

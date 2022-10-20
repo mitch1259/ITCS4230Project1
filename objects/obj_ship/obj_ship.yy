@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ship1",
+  "name": "obj_ship",
   "spriteId": {
     "name": "spr_ship",
     "path": "sprites/spr_ship/spr_ship.yy",

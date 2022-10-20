@@ -1,6 +1,7 @@
 enum LocationState {
 	Ground,
 	Air,
+	SpaceBeam,
 }
 
 /// @function  set_location_state(state)
@@ -9,6 +10,7 @@ enum LocationState {
 function set_location_state(state) {
 	switch state {
 		case LocationState.Ground:
+			hspeed = hsp
 			vspeed = 0
 			gravity = 0
 			location_state = LocationState.Ground
@@ -16,6 +18,11 @@ function set_location_state(state) {
 		case LocationState.Air:
 			gravity = gravity_force
 			location_state = LocationState.Air
+			break;
+		case LocationState.SpaceBeam:
+			hspeed = 0
+			gravity = gravity_force / 8
+			location_state = LocationState.SpaceBeam
 			break;
 	}
 }

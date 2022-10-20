@@ -52,7 +52,7 @@
     {"id":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},"order":6,},
     {"id":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},"order":7,},
     {"id":{"name":"shdr_button","path":"shaders/shdr_button/shdr_button.yy",},"order":0,},
-    {"id":{"name":"obj_ship1","path":"objects/obj_ship1/obj_ship1.yy",},"order":0,},
+    {"id":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},"order":0,},
     {"id":{"name":"obj_start_button","path":"objects/obj_start_button/obj_start_button.yy",},"order":2,},
     {"id":{"name":"obj_bounce","path":"objects/obj_bounce/obj_bounce.yy",},"order":0,},
     {"id":{"name":"obj_blob","path":"objects/obj_blob/obj_blob.yy",},"order":0,},

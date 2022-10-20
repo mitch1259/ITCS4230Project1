@@ -1,4 +1,3 @@
-/// @description Initialize variables and state
+/// @description Initialize state
 
-hspeed=hsp
-set_location_state(LocationState.Ground)
+set_location_state(LocationState.SpaceBeam)
