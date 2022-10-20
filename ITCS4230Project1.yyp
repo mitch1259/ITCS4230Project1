@@ -27,6 +27,8 @@
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"obj_default_button","path":"objects/obj_default_button/obj_default_button.yy",},"order":4,},
     {"id":{"name":"spr_enemyJump","path":"sprites/spr_enemyJump/spr_enemyJump.yy",},"order":2,},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":9,},
+    {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},"order":8,},
     {"id":{"name":"spr_game_bg","path":"sprites/spr_game_bg/spr_game_bg.yy",},"order":4,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":11,},
     {"id":{"name":"spr_ship2","path":"sprites/spr_ship2/spr_ship2.yy",},"order":1,},
@@ -74,6 +76,8 @@
     {"roomId":{"name":"rm_level1_alt2","path":"rooms/rm_level1_alt2/rm_level1_alt2.yy",},},
     {"roomId":{"name":"rm_controls","path":"rooms/rm_controls/rm_controls.yy",},},
     {"roomId":{"name":"rm_credits","path":"rooms/rm_credits/rm_credits.yy",},},
+    {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

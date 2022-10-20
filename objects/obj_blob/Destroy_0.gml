@@ -1,5 +1,3 @@
-/// @description Restart game
+/// @description Go to lose room
 
-//room goto end screen something
-game_restart()
-score = 0
+room_goto(rm_lose)
