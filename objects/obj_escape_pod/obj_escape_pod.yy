@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ship2",
+  "name": "obj_escape_pod",
   "spriteId": {
-    "name": "spr_ship2",
-    "path": "sprites/spr_ship2/spr_ship2.yy",
+    "name": "spr_escape_pod",
+    "path": "sprites/spr_escape_pod/spr_escape_pod.yy",
   },
   "solid": false,
   "visible": true,
