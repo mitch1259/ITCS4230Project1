@@ -7,7 +7,7 @@ kidzspawn_y = ds_list_create()
 if room == rm_level1 {
 	ds_list_add(kidzspawn_x, 3000, 3000, 5275, 7100, 9700, 9500, 13075)
 	ds_list_add(kidzspawn_y, 1690, 730, 250, 1690, 250, 1690, 1445)
-} else if room == rm_level1_alt {
+} else if room == rm_level2 {
 	ds_list_add(kidzspawn_x, 2875, 5040, 6000, 8040, 11040, 14280)
 	ds_list_add(kidzspawn_y, 975, 1100, 2050, 1215, 975, 1215)
 }
