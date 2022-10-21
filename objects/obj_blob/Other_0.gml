@@ -5,3 +5,8 @@ if bbox_top > room_height {
 
 	instance_destroy()
 }
+
+if bbox_left > room_width {
+	show_debug_message("Walked outside room")
+	room_goto(rm_level1_alt)
+}

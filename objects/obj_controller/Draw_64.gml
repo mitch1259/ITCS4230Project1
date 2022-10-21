@@ -27,6 +27,11 @@ switch room {
 		draw_set_halign(fa_left)
         draw_text(55, 55, "Kidz Saved: " + string(score))
 		break;
+		
+	case rm_level1_alt:
+		draw_set_halign(fa_left)
+        draw_text(55, 55, "Kidz Saved: " + string(score))
+		break;
 
 	case rm_lose:
 		draw_set_halign(fa_center)
