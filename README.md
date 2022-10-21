@@ -18,4 +18,5 @@ If you must exit the game, press 'Escape'.
 
 ## Cheat codes
 
-Press 'Alt' + 'Ctrl' to increase your score by 1
+Press 'Alt' + 'Ctrl' to increase your score by 1.
+Press 'Alt' + 'N' to go to the next level.
