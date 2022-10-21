@@ -1,5 +1,27 @@
-Font: Exo 2: The Exo 2 Project Authors (https://github.com/NDISCOVER/Exo-2.0)
+Font:
+
+Exo 2: The Exo 2 Project Authors (https://github.com/NDISCOVER/Exo-2.0)
 Licensed under the SIL Open Font License, Version 1.1.
 https://opensource.org/licenses/OFL-1.1
 
-Visuals: All Sprites, Tiles, Backgrounds, Buttons, and other art made by Chris Allard (2022).
+
+
+Visuals: 
+
+All Sprites, Tiles, Backgrounds, Buttons, and other art made by Chris Allard (2022).
+
+
+
+Sounds:
+
+Red - Hard LeAd TecHno HouSe by frankum (CC-BY - freesound.org)
+https://freesound.org/people/frankum/sounds/378665/
+
+8 bit Death sound by MentosLat (CC0 - freesound.org)
+https://freesound.org/people/MentosLat/sounds/417486/
+
+Grunt1 - Death Pain.wav by tonsil5 (CC0 - freesound.org)
+https://freesound.org/people/tonsil5/sounds/416839/
+
+Item pickup sound(?) by Darsycho (CC0 - freesound.org)
+https://freesound.org/people/Darsycho/sounds/442574/

@@ -11,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_bounce",
+    "path": "objects/obj_bounce/obj_bounce.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
