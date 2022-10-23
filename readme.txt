@@ -5,14 +5,15 @@ Names:
 Mitchell Martinez, Keith Thornton, Chris Allard, Ethan Pinto
 
 How to play:
-Save as many Kidz as you can before the reaching the escaping using the ship.
-Collecting powerups can give you different abilities which may help you complete the level. 
+Save as many Kidz as you can before reaching your escape pod.
+Make sure to avoid the agents and the potholes in the ground.
+Candy lets you knock out an agent and avoid getting caught.
+Cake gives you a jump boost. However, make sure to jump quickly; it doesn't last long!
 
 Controls:
-Press 'Space' to jump over potholes and enemies.
-When you see candies, make sure to jump quickly, they give a jump boost!
-If you feel the need to restart, press 'R'.
-If you must exit the game, press 'Escape'.
+Press 'Space' to jump.
+Press 'R' to restart.
+Press 'Escape' to exit the game.
 
 Cheat codes:
 Press 'Alt' + 'Ctrl' to increase your score by 1.

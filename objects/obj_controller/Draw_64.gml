@@ -15,12 +15,12 @@ switch room {
 	case rm_controls:
 		draw_set_color(c_black)
 		draw_set_alpha(0.75)
-		draw_rectangle(275, 575, 1650, 825, false)
+		draw_rectangle(275, 600, 1650, 800, false)
 
 		draw_set_colour(c_white)
 		draw_set_alpha(1.0)
 		draw_set_halign(fa_center)
-		draw_text(960, 575, "Pick up as many Slime Kidz as you can on your way to your escape pod!\nPress 'Space' to jump over potholes and enemies.\nWhen you see candies, make sure to jump quickly, they give a jump boost!\nIf you feel the need to restart, press 'R'.\nIf you must exit the game, press 'Escape'.")
+		draw_text(960, 550, "\nSave as many Kidz as you can before reaching your escape pod.\nAvoid the agents and potholes.\nCandy lets you knock out an agent, and Cake gives you a jump boost.\nPress 'Space' to jump, 'R' to restart, and 'Escape' to exit the game.")
 		break;
 
     case rm_level1:
